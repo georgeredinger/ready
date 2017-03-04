@@ -1,5 +1,5 @@
 # ready
-A vanilla JavaScript alternative to jQuery's `.ready()` function.
+Run functions after the DOM is ready. A vanilla JavaScript alternative to jQuery's `.ready()` function.
 
 [Download ready](https://github.com/cferdinandi/ready/archive/master.zip)
 
