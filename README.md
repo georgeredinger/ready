@@ -4,6 +4,14 @@ Run functions after the DOM is ready. A vanilla JavaScript alternative to jQuery
 [Download ready](https://github.com/cferdinandi/ready/archive/master.zip)
 
 
+<hr>
+
+### Want to learn vanilla JavaScript? Check out ["The Vanilla JS Guidebook"](https://gomakethings.com/vanilla-js-guidebook/) and level-up as a web developer. 🚀
+
+<hr>
+
+
+
 ## Getting Started
 
 ### 1. Include ready on your site.
