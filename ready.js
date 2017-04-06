@@ -1,10 +1,6 @@
-/*!
- * read.js: Run event after DOM is ready
- * @param  {Function} fn Callback function
- *
- * (c) 2017 Chris Ferdinandi
- * MIT License
- * http://github.com/cferdinandi/ready
+/*! ready.js | (c) 2017 Chris Ferdinandi | MIT License | http://github.com/cferdinandi/ready */
+/**
+ * @param  {Function} fn Callback function 
  */
 var ready = function ( fn ) {
 
