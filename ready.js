@@ -1,5 +1,6 @@
 /*! ready.js | (c) 2017 Chris Ferdinandi | MIT License | http://github.com/cferdinandi/ready */
 /**
+ * Run functions after the DOM is ready.
  * @param  {Function} fn Callback function 
  */
 var ready = function ( fn ) {
